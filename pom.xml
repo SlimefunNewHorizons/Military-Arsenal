@@ -11,7 +11,7 @@
 
     <name>Military Arsenal</name>
     <description>Addon militar de Slimefun: armas, municiones, torretas defensivas, maquinas de guerra y bombardeo por coordenadas para Paper/Purpur 26.2+, con compatibilidad runtime 1.20.4–1.21.11 via VersionSafe.</description>
-    <url>https://github.com/DrakesCraft-Labs/Military-Arsenal-addon-for-Slimefun4</url>
+    <url>https://github.com/SlimefunNewHorizons/Military-Arsenal-addon-for-Slimefun4</url>
 
     <organization>
         <name>DrakesCraft Labs</name>
@@ -20,13 +20,13 @@
 
     <issueManagement>
         <system>GitHub Issues</system>
-        <url>https://github.com/DrakesCraft-Labs/Military-Arsenal-addon-for-Slimefun4/issues</url>
+        <url>https://github.com/SlimefunNewHorizons/Military-Arsenal-addon-for-Slimefun4/issues</url>
     </issueManagement>
 
     <licenses>
         <license>
             <name>GNU General Public License v3.0</name>
-            <url>https://github.com/DrakesCraft-Labs/Military-Arsenal-addon-for-Slimefun4/blob/main/LICENSE</url>
+            <url>https://github.com/SlimefunNewHorizons/Military-Arsenal-addon-for-Slimefun4/blob/main/LICENSE</url>
             <distribution>repo</distribution>
         </license>
     </licenses>

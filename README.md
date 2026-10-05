@@ -1,13 +1,13 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/DrakesCraft-Labs/Military-Arsenal-addon-for-Slimefun4/main/banner.svg" alt="Military Arsenal" width="800">
+    <img src="https://raw.githubusercontent.com/SlimefunNewHorizons/Military-Arsenal-addon-for-Slimefun4/main/banner.svg" alt="Military Arsenal" width="800">
 </p>
 
 <p align="center">
-    <a href="https://github.com/DrakesCraft-Labs/Military-Arsenal/releases">
-        <img src="https://img.shields.io/github/v/release/DrakesCraft-Labs/Military-Arsenal?label=Release&color=8A2BE2" alt="Release">
+    <a href="https://github.com/SlimefunNewHorizons/Military-Arsenal/releases">
+        <img src="https://img.shields.io/github/v/release/SlimefunNewHorizons/Military-Arsenal?label=Release&color=8A2BE2" alt="Release">
     </a>
-    <a href="https://github.com/DrakesCraft-Labs/Military-Arsenal/actions">
-        <img src="https://img.shields.io/github/actions/workflow/status/DrakesCraft-Labs/Military-Arsenal/build.yml?label=Build&color=00BFFF" alt="Build">
+    <a href="https://github.com/SlimefunNewHorizons/Military-Arsenal/actions">
+        <img src="https://img.shields.io/github/actions/workflow/status/SlimefunNewHorizons/Military-Arsenal/build.yml?label=Build&color=00BFFF" alt="Build">
     </a>
     <a href="https://modrinth.com/plugin/weaponsaddon">
         <img src="https://img.shields.io/badge/Modrinth-MilitaryArsenal-1BD96A" alt="Modrinth">
@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/badge/CurseForge-MilitaryArsenal-orange" alt="CurseForge">
     </a>
     <a href="LICENSE">
-        <img src="https://img.shields.io/github/license/DrakesCraft-Labs/Military-Arsenal?label=License&color=228B22" alt="License">
+        <img src="https://img.shields.io/github/license/SlimefunNewHorizons/Military-Arsenal?label=License&color=228B22" alt="License">
     </a>
     <img src="https://img.shields.io/badge/Java-25-orange" alt="Java 25">
     <img src="https://img.shields.io/badge/Paper%20%2F%20Purpur-26.2%2B-blue" alt="Paper/Purpur 26.2+">
@@ -83,7 +83,7 @@
 ## 📥 Installation
 
 1. Install **Slimefun4-Drake v11** on a Paper/Purpur **26.2+** server running **Java 25**.
-2. Download `MilitaryArsenal-v1.1.3.jar` from [GitHub Releases](https://github.com/DrakesCraft-Labs/Military-Arsenal/releases), [Modrinth](https://modrinth.com/plugin/weaponsaddon) or [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/militaryarsenal).
+2. Download `MilitaryArsenal-v1.1.3.jar` from [GitHub Releases](https://github.com/SlimefunNewHorizons/Military-Arsenal/releases), [Modrinth](https://modrinth.com/plugin/weaponsaddon) or [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/militaryarsenal).
 3. Place the JAR in the server's `plugins/` directory.
 4. Restart the server completely.
 5. Open the Slimefun guide (`/sf guide`) and navigate to the **MILITARY ARSENAL** category.
@@ -107,12 +107,12 @@ The final JAR is written to `target/MilitaryArsenal-v1.1.3.jar`. GitHub Actions 
 ## 📖 Documentation
 
 - [Como_Funciona.md](Como_Funciona.md) — full addon guide (items, recipes, machines and mechanics)
-- [GitHub Issues](https://github.com/DrakesCraft-Labs/Military-Arsenal/issues) — report bugs and suggest improvements
+- [GitHub Issues](https://github.com/SlimefunNewHorizons/Military-Arsenal/issues) — report bugs and suggest improvements
 
 ---
 
 ## 📄 License & Sovereign Authorship
 
-Copyright © 2026 [**Chagui68**](https://github.com/Chagui68) · [**DrakesCraft Labs**](https://github.com/DrakesCraft-Labs).
+Copyright © 2026 [**Chagui68**](https://github.com/Chagui68) · [**DrakesCraft Labs**](https://github.com/SlimefunNewHorizons).
 
 This project is an **original sovereign creation** engineered by **Chagui68** for the DrakesCraft network. All intellectual authorship belongs to Chagui68. Commercial resale, repackaging in paid setups, or removing creator attribution is strictly prohibited.
